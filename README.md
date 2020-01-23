@@ -11,6 +11,13 @@ In computer graphical user interfaces, drag and drop is a pointing device gestur
 - React Grid [Link](https://github.com/STRML/react-grid-layout)
 - Atlasian [Link](https://github.com/atlassian/react-beautiful-dnd)
 
+- Blocks [Link](https://github.com/blocks/blocks)
+- Builder [Link](https://github.com/BuilderIO/builder)
+- Pagedraw [Link](https://github.com/Pagedraw/pagedraw)
+- page-builder-ui [Link](https://github.com/philipnewcomer/page-builder-ui)
+- insight [Link](https://github.com/insiight/ant-design-theme-builder)
+- UI-Builder [Link](https://github.com/iwangbowen/UI-Builder)
+- variant-builder [Link](http://www.mediumra.re/pangaea/variant/builder.html)
 
 Github has a ton of resources for Drag and Drop https://github.com/search?q=drag+and+drop
 
