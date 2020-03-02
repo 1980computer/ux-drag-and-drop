@@ -2,6 +2,9 @@
 
 In computer graphical user interfaces, drag and drop is a pointing device gesture in which the user selects a virtual object by "grabbing" it and dragging it to a different location or onto another virtual object.
 
+### UX Considerations
+- [Link](https://www.nngroup.com/articles/drag-drop/)
+
 ### Drag and Drop
 - Sortable [Link](https://sortablejs.github.io/Sortable/#grid)
 - Interactjs [Link](https://interactjs.io/)
