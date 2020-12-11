@@ -5,11 +5,6 @@ In computer graphical user interfaces, drag and drop is a pointing device gestur
 ### Articles
 - NNGroup [Link](https://www.nngroup.com/articles/drag-drop/)
 
-### Inspiration
-- Retool [Link](https://retool.com/)
-- Wix Builder [Link](https://www.wix.com/)
-- Elemenator [Link](https://elementor.com/)
-
 ### Libraries
 - Sortable [Link](https://sortablejs.github.io/Sortable/#grid)
 - Interactjs [Link](https://interactjs.io/)
@@ -28,6 +23,13 @@ In computer graphical user interfaces, drag and drop is a pointing device gestur
 - CraftJS [Link](https://github.com/prevwong/craft.js)
 
 Github has a ton of resources for Drag and Drop https://github.com/search?q=drag+and+drop
+
+### Example Inspiration
+- Retool [Link](https://retool.com/)
+- Wix Builder [Link](https://www.wix.com/)
+- Elemenator [Link](https://elementor.com/)
+- Draftbit [Link](https://draftbit.com/)
+- Webflow [Link](https://webflow.com/)
 
 ### Image example preview for Drag and Drop
 ![image](https://miro.medium.com/max/2862/1*bXCSaXR9_ky8vZyIIBwNgw.png)
