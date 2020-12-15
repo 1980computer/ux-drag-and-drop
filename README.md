@@ -37,6 +37,7 @@ In computer graphical user interfaces, drag and drop is a pointing device gestur
 ### Inspiration
 - [Crownpeak cms](https://crownpeak.com/) •
 [Retool](https://retool.com/) •
+[EditorX](https://www.editorx.com/) •
 [Wix Builder](https://www.wix.com/) •
 [Elemenator](https://elementor.com/) •
 [Draftbit](https://draftbit.com/) •
