@@ -16,6 +16,7 @@ In computer graphical user interfaces, drag and drop is a pointing device gestur
 
 ### Libraries
 - [Sortable](https://sortablejs.github.io/Sortable/#grid) •
+[DND Kit](https://github.com/clauderic/dnd-kit) •
 [Interactjs](https://interactjs.io/) •
 [Shopify](https://shopify.github.io/draggable/examples/) •
 [Displace](https://catc.github.io/displace/#demo) •
