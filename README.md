@@ -31,6 +31,7 @@ In computer graphical user interfaces, drag and drop is a pointing device gestur
 [UI-Builder](https://github.com/iwangbowen/UI-Builder)
 [variant-builder](http://www.mediumra.re/pangaea/variant/builder.html) •
 [CraftJS](https://github.com/prevwong/craft.js) •
+[MMM Page](https://build.mmm.page/) •
 [More github resources](https://github.com/search?q=drag+and+drop) •
 
 ---
