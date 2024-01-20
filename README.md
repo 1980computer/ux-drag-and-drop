@@ -58,5 +58,4 @@ In computer graphical user interfaces, drag and drop is a pointing device gestur
 
 ---
 
-Made by [davidbanthony.com](https://davidbanthony.com)
 
